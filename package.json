@@ -1,6 +1,6 @@
 {
   "name": "tic-tac-toe",
-  "homepage": "https://kenthehuman.github.io/robofriends",
+  "homepage": "https://kenthehuman.github.io/tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
